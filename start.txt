@@ -1,3 +1,1 @@
-Test git quick demo
-New line added to this file.
-
+Test git quick demo with demo branch.
